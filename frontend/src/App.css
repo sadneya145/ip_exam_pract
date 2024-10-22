@@ -1,0 +1,52 @@
+.form-style {
+  margin-top: 100px;
+  margin-left: 470px;
+  align-content: center;
+  text-align: center;
+  height: 300px;
+  width: 700px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid #000;
+}
+
+.form-style label {
+  font-size: 22px;
+}
+
+.form-style input {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+#button {
+  color: #fff;
+  background-color: rgb(55, 160, 55);
+  margin-top: 25px;
+  height: 50px;
+  width: 200px;
+  border-radius: 12px;
+  border: 2px #000 solid;
+}
+
+
+.result {
+  margin-left: 470px;
+  margin-top: 50px;
+  height: 100px;
+  width: 700px;
+  border: #000 solid 2px;
+  text-align: center;
+
+}
+
+.error {
+
+  margin-left: 470px;
+  margin-top: 50px;
+  height: 50px;
+  width: 700px;
+  border: #000 solid 2px;
+  text-align: center;
+  color: red;
+}
+
